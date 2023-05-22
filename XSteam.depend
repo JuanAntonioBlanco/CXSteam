@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1684710543 source:c:\users\juanantonio\desktop\maestria\xsteam\main.c
+	<stdio.h>
+	"CXSTEAM.h"
+
+1684693329 source:c:\users\juanantonio\desktop\maestria\xsteam\main2.c
+	<stdio.h>
+	"CXSTEAM.h"
+
+1684683556 c:\users\juanantonio\desktop\maestria\xsteam\cxsteam.h
+	<math.h>
+	<stdio.h>
+
+1684709069 source:c:\users\juanantonio\desktop\maestria\xsteam\cxsteam.c
+	<math.h>
+	<stdio.h>
+	"CXSTEAM.h"
+
+1684714516 source:c:\users\juanantonio\desktop\maestria\cxsteam\cxsteam.c
+	<math.h>
+	<stdio.h>
+	"CXSTEAM.h"
+
+1684683556 c:\users\juanantonio\desktop\maestria\cxsteam\cxsteam.h
+	<math.h>
+	<stdio.h>
+
+1684714695 source:c:\users\juanantonio\desktop\maestria\cxsteam\main.c
+	<stdio.h>
+	"CXSTEAM.h"
+
